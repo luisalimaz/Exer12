@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: "Noto Serif", serif;
+  }
+  
+  .navbar {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: #6648b9;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .content {
+    margin-top: 50px; 
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #a86dec;
+  }
